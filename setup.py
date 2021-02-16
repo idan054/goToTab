@@ -14,8 +14,9 @@ setuptools.setup(
     ''',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/idan054/goToTab",
     packages=setuptools.find_packages(),
+    keywords = ["selenium", "tab", "chrome", "go", "to", "2", "webdriver"],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
